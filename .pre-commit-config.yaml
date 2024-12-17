@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: check-yaml-format
+        name: Check YAML format
+        entry: yq eval .
+        language: system
+        types: [file]
+        files: \.yaml$
