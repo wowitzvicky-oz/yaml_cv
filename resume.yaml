@@ -1,53 +1,45 @@
-personal_info:
-  name: "Имя Фамилия"
-  contact:
-    email: "email@example.com"
-    phone: "+1234567890"
-    linkedin: "https://linkedin.com/in/username"
-    github: "https://github.com/username"
-  summary: "Краткое описание о себе: ключевые навыки, достижения и цели."
+personal_info: 
+  name: "Виктория Непша" 
+  contact: 
+    email: "wowitzvicky@gmail.com" 
+    phone: "+79234109926" 
+    github: "https://github.com/wowitzvicky-oz" 
+  summary: "Краткое описание о себе: будущий успешный молодой специалист в IT-сфере."
 
-education:
-  - degree: "Бакалавр Программной Инженерии"
-    university: "Название университета"
-    start_date: "Сентябрь 2015"
-    end_date: "Июнь 2019"
-  - degree: "Магистр Искусственного Интеллекта"
-    university: "Название университета"
-    start_date: "Сентябрь 2020"
-    end_date: "Июнь 2022"
+education: 
+  - degree: "Бакалавр"
+    university: "ТУСУР"
+    start_date: "Сентябрь 2021"
+    end_date: "Июль 2025"
 
-work_experience:
-  - company: "Название компании"
-    position: "Должность"
-    start_date: "Месяц Год"
-    end_date: "Месяц Год"
-    responsibilities:
-      - "Задача или ключевая обязанность #1"
-      - "Задача или ключевая обязанность #2"
+work_experience: 
+  - company: "Почтовая лига"
+    position: "Веб-разработчик"
+    start_date: "Октябрь 2022"
+    end_date: "Сентябрь 2024"
+    responsibilities: 
+      - "Разработка бекенд части веб-приложения"
+      - "Разработка фронтенд части веб-приложения"
 
-skills:
-  programming_languages:
+skills: 
+  programming_languages: 
     - name: "Python"
       level: "advanced"
     - name: "JavaScript"
       level: "medium"
-  tools_and_frameworks:
-    - name: ""
-      level: ""
-    - name: ""
-      level: ""
-  other_skills:
-    - name: ""
-    - name: ""
+  tools_and_frameworks: 
+    - name: "Django"
+      level: "advanced"
+    - name: "Vue.js"
+      level: "medium"
+  other_skills: 
+    - name: "Высокий уровень знания иностранного языка : Английский"
+    - name: "Управление проектами"
 
-certifications:
-  - name: ""
-    institution: ""
-    date: ""
-
-projects:
-  - name: "Название проекта"
-    description: "Описание проекта, его цели и основные достижения."
-    stack: [""]
-    link: "https://github.com/username/project-link"
+projects: 
+  - name: "Student messenger"
+    description: "Веб-приложение 'Мессенджер для студентов'."
+    stack: 
+      - "Python"
+      - "Django"
+      - "PostgreSQL"
