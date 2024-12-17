@@ -1,0 +1,53 @@
+personal_info:
+  name: "Имя Фамилия"
+  contact:
+    email: "email@example.com"
+    phone: "+1234567890"
+    linkedin: "https://linkedin.com/in/username"
+    github: "https://github.com/username"
+  summary: "Краткое описание о себе: ключевые навыки, достижения и цели."
+
+education:
+  - degree: "Бакалавр Программной Инженерии"
+    university: "Название университета"
+    start_date: "Сентябрь 2015"
+    end_date: "Июнь 2019"
+  - degree: "Магистр Искусственного Интеллекта"
+    university: "Название университета"
+    start_date: "Сентябрь 2020"
+    end_date: "Июнь 2022"
+
+work_experience:
+  - company: "Название компании"
+    position: "Должность"
+    start_date: "Месяц Год"
+    end_date: "Месяц Год"
+    responsibilities:
+      - "Задача или ключевая обязанность #1"
+      - "Задача или ключевая обязанность #2"
+
+skills:
+  programming_languages:
+    - name: "Python"
+      level: "advanced"
+    - name: "JavaScript"
+      level: "medium"
+  tools_and_frameworks:
+    - name: ""
+      level: ""
+    - name: ""
+      level: ""
+  other_skills:
+    - name: ""
+    - name: ""
+
+certifications:
+  - name: ""
+    institution: ""
+    date: ""
+
+projects:
+  - name: "Название проекта"
+    description: "Описание проекта, его цели и основные достижения."
+    stack: [""]
+    link: "https://github.com/username/project-link"
